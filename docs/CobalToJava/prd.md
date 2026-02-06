@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Changed.The CobalToJava project aims to facilitate the modernization of legacy systems by providing a platform that can convert COBOL programs into Java-based microservices. This project will allow users to upload COBOL programs and automatically extract their business logic, validations, and external API calls. The extracted information will be used to generate new microservices built on the Java Spring Boot framework. The solution should also be accessible via microservices architecture and integrate with OAuth for secure authentication and authorization.
+Changed Again.The CobalToJava project aims to facilitate the modernization of legacy systems by providing a platform that can convert COBOL programs into Java-based microservices. This project will allow users to upload COBOL programs and automatically extract their business logic, validations, and external API calls. The extracted information will be used to generate new microservices built on the Java Spring Boot framework. The solution should also be accessible via microservices architecture and integrate with OAuth for secure authentication and authorization.
 
 ## 2. Product Specifications
 
